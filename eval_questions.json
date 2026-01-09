@@ -6,5 +6,9 @@
   {
     "question": "what is nexus?",
     "expected_doc": "Guardian Nexus Agentic AI for IoT Defense (1).pdf"
+  },
+  {
+    "question": "what is nexus used for?",
+    "expected_doc": "Guardian Nexus Agentic AI for IoT Defense (1).pdf"
   }
 ]
